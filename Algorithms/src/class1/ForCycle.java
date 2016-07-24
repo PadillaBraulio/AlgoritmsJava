@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package clase1;
+package class1;
 
 import java.util.Scanner;
 
@@ -11,10 +11,10 @@ import java.util.Scanner;
  *
  * @author pc2
  */
-public class CicloFor {
+public class ForCycle {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
-        //INICIO
+        //TIPOS DE FOR
         //Obtener datos
         System.out.println("Bienvenido \n ingrese un nùmero \n");
         int numero = entrada.nextInt();
@@ -32,8 +32,8 @@ public class CicloFor {
             System.out.println("For 3 numero " + y);
         }
         
-        //FOR INFINITO
-        //              for (;;){}
+        //FOR INFINITO, si lo ejecutàs, entrearemos a un ciclo infinito
+        //             for (;;){}
         //FIN
     }
 }
