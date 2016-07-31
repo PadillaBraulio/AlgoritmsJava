@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package class1;
+package clase1;
 
 import java.util.Scanner;
 
@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author pc2
  * Ejemplo de un menu
  */
-public class PricesMenu {
+public class PreciosMenu {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         //INICIO
