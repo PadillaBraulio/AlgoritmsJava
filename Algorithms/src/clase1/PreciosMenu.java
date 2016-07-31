@@ -1,16 +1,18 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package clase1;
 
 import java.util.Scanner;
 
 /**
- *
- * @author pc2
- * Ejemplo de un menu
+ * En esta clase se crea un menu y dependiendo de la selección del usuario se muestra
+ * el precio del producto; Aquí aprendera la sintaxis del IF, se puede utilizar el if solo
+ * el if anidad con else if y de ultimo se le puede añadir la clausula else.
+ * 
+ * Sientase libre de analizar el codigo, cualquier duda, puede convocarse con nosotros
+ * por medio de un correo electronico o asistiendo a nuestor horario de dsi.
+ * 
+ * @author Braulio Juan Carlos Padilla Rosales Tutor ipc1 sección D
+ * @since 1.0
  */
 public class PreciosMenu {
     public static void main(String[] args) {

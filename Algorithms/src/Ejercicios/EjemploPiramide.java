@@ -12,12 +12,14 @@ import java.util.Scanner;
  *  *****
  * 
  * @author Ricardo Hernandez, Tutor Academico IPC1 Seccion
+ * @since 5.0
  * 
  */
 public class EjemploPiramide {
 
     /**
      * @param args the command line arguments
+     * @since 5.0
      */
     public static void main(String[] args) {
         // Declaración de variables locales.

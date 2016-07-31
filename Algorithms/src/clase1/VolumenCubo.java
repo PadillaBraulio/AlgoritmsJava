@@ -1,16 +1,12 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package clase1;
 
 import java.util.Scanner;
 
 /**
- *
- * @author pc2
- * Ejemplo del calculo del volumen de un cubo por consola
+ * En esta clase calcularemos el volumen de un cubo :), que chilero!.
+ * @author Braulio Juan Carlos Padilla Rosales Tutor academico sección D.
+ * @since 1.0
  */
 public class VolumenCubo {
     /**
@@ -20,7 +16,7 @@ public class VolumenCubo {
         //Esta variable nos sirve para obtener datos del teclado
         Scanner entrada = new Scanner(System.in);
         //Declaraci[on de variables
-        //Tipo de datos primitivos, no necesitan inicializarse, poseen un valor por default (investigar)
+        //Tipo de datos primitivos, no necesitan inicializarse, poseen un valor por default (investigar y si quieren envienos un correo con lo que investigaron :) !)
         int A;
         int B;
         int C;
