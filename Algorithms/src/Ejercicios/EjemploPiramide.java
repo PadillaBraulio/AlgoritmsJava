@@ -27,8 +27,6 @@ public class EjemploPiramide {
         int lineaActual;
         int columna = 0;
         Scanner entrada = new Scanner(System.in);
-        
-        System.out.println("numero de columnas(dato numerico mayor a 0):");
         np = entrada.nextInt(); 
         lineaActual = 1;
         
