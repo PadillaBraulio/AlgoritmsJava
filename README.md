@@ -1,4 +1,4 @@
-# AlgoritmsJava
+# AlgorithmsJava
 An collection of algorithms made for the course of IPC1
 
 Follow the instruction in order to run the files.
