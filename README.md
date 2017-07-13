@@ -1,5 +1,5 @@
 # AlgorithmsJava
-An collection of algorithms made for the course of IPC1
+An collection of algorithms made for the course of IPC1 in the USAC university
 
 Follow the instruction in order to run the files.
 
